@@ -1,0 +1,2 @@
+# Medical Appointment No Shows
+mporting the dataset using pandas. Displaying the number of rows and columns. Showing the first five rows for initial inspection. Identifying and counting missing values in each column. Removing duplicate rows and reporting the count of duplicates. Standardizing the 'Gender' column values. Converting date columns ('ScheduledDay', 'AppointmentDay') to a consistent format (dd-mm-yyyy). Renaming columns to lowercase and removing spaces. Checking and correcting data types for each column.
